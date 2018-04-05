@@ -26,6 +26,8 @@ test:
   imports:
     - gitdb
     - gitdb.db
+    - gitdb.test
+    - gitdb.utils
 
 about:
   home: https://github.com/gitpython-developers/gitdb
