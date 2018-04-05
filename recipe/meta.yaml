@@ -36,6 +36,7 @@ about:
   home: https://github.com/gitpython-developers/gitdb
   license: BSD-3-Clause
   license_file: LICENSE
+  license_family: BSD
   summary: 'A pure-Python git object database'
 
 extra:
