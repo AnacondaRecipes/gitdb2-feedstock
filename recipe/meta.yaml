@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python
-    - smmap2
+    - smmap2 >=2.0.0
 
 test:
   imports:
